@@ -1,4 +1,4 @@
-# UFW Firewall Configuration - Cybersecurity Internship Task
+# UFW Firewall Configuration 
 
 ## Objective
 Configure and test basic firewall rules using UFW (Uncomplicated Firewall) on Kali Linux.
